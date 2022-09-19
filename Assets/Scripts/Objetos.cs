@@ -9,7 +9,7 @@ public class Objetos : MonoBehaviour
     void OnCollisionEnter(Collision colisao){
         if(colisao.gameObject.tag == "Conserto"){
             Destroy (gameObject);
-            Instantiate(ArmarioConsertado, transform.position, Quaternion.identity);
+            Instantiate(ArmarioConsertado, transform.position, transform.rotation);
         }
     }
 }

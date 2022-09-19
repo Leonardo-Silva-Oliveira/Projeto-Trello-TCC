@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4581090486225690441
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8768133303093192197, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc32f22d835575c43b4b413ee59d7ee0, type: 2}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19.813232
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5428545
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.1336713
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4683669308469848369, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4182c509f073f66459d66c4bc907d3a6, type: 2}
+    - target: {fileID: -1823322365421230674, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6e51d7d607f3b4849ad318d854fea50f, type: 2}
+    - target: {fileID: 919132149155446097, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_Name
+      value: "Rog\xE9rioSelection"
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0aff602c1ef39404dba1bb802ede2c88, type: 3}
