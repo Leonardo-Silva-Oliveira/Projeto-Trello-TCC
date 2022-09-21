@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Jogador : MonoBehaviour
 {
+
     Vector3 mov;
     public RotationAxes axes = RotationAxes.MouseXAndY;
     public float sensitivityHor = 5.0f;
