@@ -524,6 +524,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d222747fcf16c1144b45d51a2e7e34c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &5396700904544807413
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5885300797960583626}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.033842355, y: 0.0748636, z: 0.12903479}
+  m_Center: {x: 0.000028530147, y: 0.0039211814, z: 0.026495488}
 --- !u!1001 &6732213167596651675
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -587,9 +600,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d6bebc3973602b9408ecf9d735f2685f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c835e9ab536c1354b95e21af33dafa64, type: 2}
     - target: {fileID: 919132149155446097, guid: d6bebc3973602b9408ecf9d735f2685f, type: 3}
       propertyPath: m_Name
       value: Manopla
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d6bebc3973602b9408ecf9d735f2685f, type: 3}
+      propertyPath: m_TagString
+      value: Conserto
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6bebc3973602b9408ecf9d735f2685f, type: 3}
